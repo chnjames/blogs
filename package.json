@@ -1,0 +1,18 @@
+{
+  "name": "vuepress-james",
+  "version": "2.0.0",
+  "description": "",
+  "repository": "git@github.com:chnjames/blogs.git",
+  "author": "chnjames <chnrural910@gmail.com>",
+  "license": "MIT",
+  "keywords": [],
+  "scripts": {
+    "dev": "vuepress dev .",
+    "start": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "dependencies": {
+    "vuepress": "2.0.0-beta.60",
+    "vuepress-theme-reco": "2.0.0-beta.53"
+  }
+}
