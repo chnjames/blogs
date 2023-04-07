@@ -4,7 +4,7 @@ import head from "./head";
 import series from "./series";
 
 export default {
-  base: '/',
+  base: '/blogs/',
   title: "一点一木",
   description: "专注为了分享，而分享则能让更多人专注！",
   head,
