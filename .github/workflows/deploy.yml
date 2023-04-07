@@ -4,7 +4,7 @@ name: Deploy GitHub Pages
 on:
   push:
     branches:
-      - master
+      - main
 
 # 任务
 jobs:
@@ -16,15 +16,25 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
+          # “最近更新时间” 等 git 日志相关信息，需要拉取全部提交记录
+          fetch-depth: 0
           persist-credentials: false
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          # 选择要使用的 node 版本
+          node-version: '14'
+      # 安装依赖
+      - name: Install dependencies
+        run: npm install
 
-      # 生成静态文件
-      - name: Build
-        run: npm install && npm run build
+      # 运行构建脚本
+      - name: Build VuePress site
+        run: npm run build
 
       # 部署到 GitHub Pages
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v2
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages
