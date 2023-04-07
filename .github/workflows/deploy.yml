@@ -1,44 +1,21 @@
-name: Deploy GitHub Pages
-
-# 触发条件：在 push 到 master 分支后
-on:
-  push:
-    branches:
-      - main
-
-# 任务
+name: Build and Deploy
+on: [push]
+permissions:
+  contents: write
 jobs:
   build-and-deploy:
-    # 服务器环境：最新版 Ubuntu
+    concurrency: ci-${{ github.ref }} # Recommended if you intend to make multiple deployments in quick succession.
     runs-on: ubuntu-latest
     steps:
-    
-      # 拉取代码
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          # “最近更新时间” 等 git 日志相关信息，需要拉取全部提交记录
-          fetch-depth: 0
-          persist-credentials: false
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v1
-        with:
-          # 选择要使用的 node 版本
-          node-version: '14'
-          
-      # 安装依赖
-      - name: Install dependencies
-        run: npm install
+      - name: Install and Build 🔧 # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
+        run: |
+          npm ci
+          npm run build
 
-      # 运行构建脚本
-      - name: Build VuePress site
-        run: npm run build
-
-      # 部署到 GitHub Pages
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@releases/v3
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: docs/.vuepress/dist
+          folder: build # The folder the action should deploy.
