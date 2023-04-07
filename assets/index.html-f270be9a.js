@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,s as e,R as c}from"./framework-1749bed7.js";const n={},r=e("h1",{id:"这是幻想中的未来",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#这是幻想中的未来","aria-hidden":"true"},"#"),c(" 这是幻想中的未来")],-1),o=[r];function _(d,i){return a(),s("div",null,o)}const l=t(n,[["render",_],["__file","index.html.vue"]]);export{l as default};
