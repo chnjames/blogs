@@ -1,7 +1,7 @@
 export default [
     ['link', {
         rel: 'icon',
-        href: 'https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202206141707606.png'
+        href: 'https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202304071611913.png'
     }],
     ['script', {
         async: true,

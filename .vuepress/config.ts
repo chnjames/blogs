@@ -10,9 +10,9 @@ export default {
   head,
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
-    logo: "/logo.png",
+    logo: "https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202304071611913.png",
     author: "James",
-    authorAvatar: "/head.png",
+    authorAvatar: "https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202304071611913.png",
     // page meta
     editLinkText: "在 GitHub 上编辑此页",
     contributorsText: "贡献者",
