@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4948f575","path":"/blogs/future/","title":"这是幻想中的未来","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1680772375000,"updatedTime":1680772375000,"contributors":[{"name":"一点一木","email":"chnrural910@gmail.com","commits":1}]},"filePathRelative":"blogs/future/README.md"}');export{e as data};

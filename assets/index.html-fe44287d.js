@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-19ac37cd","path":"/docs/software/","title":"软件推荐","lang":"en-US","frontmatter":{"title":"软件推荐"},"headers":[],"git":{"createdTime":1680772375000,"updatedTime":1680772375000,"contributors":[{"name":"一点一木","email":"chnrural910@gmail.com","commits":1}]},"filePathRelative":"docs/software/README.md"}');export{e as data};

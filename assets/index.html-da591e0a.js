@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3b15d27f","path":"/docs/reference/","title":"前端技术进阶修炼之路","lang":"en-US","frontmatter":{"title":"前端技术进阶修炼之路"},"headers":[],"git":{"createdTime":1680772375000,"updatedTime":1680772375000,"contributors":[{"name":"一点一木","email":"chnrural910@gmail.com","commits":1}]},"filePathRelative":"docs/reference/README.md"}');export{e as data};
