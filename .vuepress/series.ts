@@ -9,6 +9,7 @@ export default {
     "pinia",
     "canvas",
     "dhtmlx-gantt",
+    "FlutterVSRN"
   ],
   // 面试宝典
   "/docs/topic/": [
