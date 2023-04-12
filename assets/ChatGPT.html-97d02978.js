@@ -1,1 +1,0 @@
-import{_ as t,p as a,q as c,s as e,R as s}from"./framework-1749bed7.js";const r={},o=e("h1",{id:"chatgpt",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#chatgpt","aria-hidden":"true"},"#"),s(" ChatGPT")],-1),n=[o];function _(h,d){return a(),c("div",null,n)}const l=t(r,[["render",_],["__file","ChatGPT.html.vue"]]);export{l as default};
