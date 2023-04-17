@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-197799d5","path":"/tags/React%20Native/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{t as data};
