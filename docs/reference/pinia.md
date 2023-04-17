@@ -1,3 +1,6 @@
+---
+hideComments: false
+---
 # `Pinia`的使用
 
 ## 介绍

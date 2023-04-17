@@ -1,6 +1,7 @@
 ---
 pageClass: docs-base
 date: 2021-03-17
+hideComments: false
 ---
 # 前端图谱
 ## 前端技能图谱

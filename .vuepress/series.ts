@@ -9,7 +9,8 @@ export default {
     "pinia",
     "canvas",
     "dhtmlx-gantt",
-    "FlutterVSRN"
+    "FlutterVSRN",
+    "MultiLevelFormValidation"
   ],
   // 面试宝典
   "/docs/topic/": [

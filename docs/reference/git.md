@@ -1,3 +1,6 @@
+---
+hideComments: false
+---
 # `Git`操作手册
 
 ## 基本操作流程

@@ -1,5 +1,6 @@
 ---
 title: Vite2+Vue3+TS+Pinia搭建项目
+hideComments: false
 ---
 #  Vite2 + Vue3 + TypeScript + Pinia 搭建项目
 

@@ -9,11 +9,13 @@ export default {
   description: "专注为了分享，而分享则能让更多人专注！",
   head,
   theme: recoTheme({
+    repo: 'chnjames/blogs',
     style: "@vuepress-reco/style-default",
     logo: "https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202304071611913.png",
     author: "James",
     authorAvatar: "https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202304071611913.png",
     // page meta
+    editLink: true,
     editLinkText: "在 GitHub 上编辑此页",
     contributorsText: "贡献者",
     lastUpdatedText: "上次更新",

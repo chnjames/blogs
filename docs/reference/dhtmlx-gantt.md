@@ -1,3 +1,6 @@
+---
+hideComments: false
+---
 # 在Vue中使用`dhtmlx-gantt`
 
 ## 安装
