@@ -10,7 +10,8 @@ export default {
     "canvas",
     "dhtmlx-gantt",
     "FlutterVSRN",
-    "MultiLevelFormValidation"
+    "MultiLevelFormValidation",
+    "AICodeTools"
   ],
   // 面试宝典
   "/docs/topic/": [
