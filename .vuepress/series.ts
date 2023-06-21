@@ -35,6 +35,7 @@ export default {
   ],
   // 前方的路
   "/blogs/future/": [
-    "诗与远方.md"
+    "诗与远方.md",
+    "每日新闻.md"
   ]
 };

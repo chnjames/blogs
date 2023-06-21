@@ -29,10 +29,5 @@ export default [
     text: "前方的路",
     icon: "Activity",
     link: "/blogs/future/"
-  },
-  {
-    text: "Github",
-    icon: "LogoGithub",
-    link: "https://github.com/chnjames",
-  },
+  }
 ];
