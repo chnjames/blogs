@@ -11,7 +11,8 @@ export default {
     "dhtmlx-gantt",
     "FlutterVSRN",
     "MultiLevelFormValidation",
-    "AICodeTools"
+    "AICodeTools",
+    "SpeedBooster"
   ],
   // 面试宝典
   "/docs/topic/": [
