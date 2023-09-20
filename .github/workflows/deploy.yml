@@ -27,7 +27,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           # 选择要使用的 node 版本
-          node-version: '14'
+          node-version: '18'
           
       # 安装依赖
       - name: Install dependencies 📚
@@ -39,8 +39,10 @@ jobs:
 
       # 部署到 GitHub Pages
       - name: Deploy 🚀
-        uses: peaceiris/actions-gh-pages@v3
+        uses: crazy-max/ghaction-github-pages@v2
         with:
-          github_token: ${{ secrets.ACCESS_TOKEN }}
-          publish_branch: gh-pages
-          publish_dir: .vuepress/dist
+          target_branch: gh-pages
+          build_dir: .vuepress/dist
+        env:
+          # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
