@@ -1,0 +1,1 @@
+import{_ as t,p as o,q as s,s as e,R as a}from"./framework-c56ab46b.js";const c={},r=e("h2",{id:"商业思考",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#商业思考","aria-hidden":"true"},"#"),a(" 商业思考")],-1),n=[r];function _(d,i){return o(),s("div",null,n)}const l=t(c,[["render",_],["__file","Books.html.vue"]]);export{l as default};

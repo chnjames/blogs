@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as s,s as e,R as n}from"./framework-c56ab46b.js";const c={},r=e("h1",{id:"诗与远方",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#诗与远方","aria-hidden":"true"},"#"),n(" 诗与远方")],-1),o=[r];function _(d,i){return t(),s("div",null,o)}const f=a(c,[["render",_],["__file","shiyuyuanfang.html.vue"]]);export{f as default};
