@@ -12,13 +12,20 @@ export default {
     "FlutterVSRN",
     "MultiLevelFormValidation",
     "AICodeTools",
-    "SpeedBooster"
+    "Books",
+    "CSSTools",
+    "generateRandomSimplifiedChineseText",
+    "officialAccount",
+    "MiniProgramDecompilation",
+    "ElementUIStrangeSkills",
+    "uniAppMultiLevelSelector"
   ],
   // 面试宝典
   "/docs/topic/": [
     "JavaScript",
     "Vue",
-    "CSS"
+    "CSS",
+    "SpeedBooster"
   ],
   // 关于我
   "/docs/summary/": [
