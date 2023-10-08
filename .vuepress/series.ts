@@ -18,7 +18,8 @@ export default {
     "officialAccount",
     "MiniProgramDecompilation",
     "ElementUIStrangeSkills",
-    "uniAppMultiLevelSelector"
+    "uniAppMultiLevelSelector",
+    "CSSMaster"
   ],
   // 面试宝典
   "/docs/topic/": [
