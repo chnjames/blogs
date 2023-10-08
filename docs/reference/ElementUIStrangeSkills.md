@@ -207,6 +207,45 @@ export default {
    this.showPopper = !this.showPopper
    ```
 
-   
+
+
+
+*`2023.10.08`更新~*
+
+------
+
+#### `ClickOutside`
+
+> `ClickOutside`是`ElementUI`实现的一个自定义指令，顾名思义，就是点击元素外面才会触发的事件。`ElementUI`中的`select`、`dropdown`、`popver`等组件都用到该指令。
+>
+> `ClickOutside`
+
+```vue
+<template>
+    <div v-clickoutside="handleClose" v-show="flag"></div>
+</template>
+<script>
+import Clickoutside from "element-ui/src/utils/clickoutside"
+export default{
+    data(){
+        return {
+            flag: true
+        }
+    },
+    directives: { Clickoutside },
+    methods: {
+        handleClose(){
+            this.flag = false;
+        }
+    }
+}    
+</script>
+```
+
+
+
+![GIF 8-10-2023](https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202310081637614.gif)
+
+
 
 通过掌握这些高级技巧和窍门，你可以更好地定制和优化`ElementUI`应用程序，提供更出色的用户体验和更灵活的界面交互。还有没有发现`ElementUI`中更好玩的内容，发出来大家学习学习。
