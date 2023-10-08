@@ -218,7 +218,6 @@ export default {
 
 > `ClickOutside`是`ElementUI`实现的一个自定义指令，顾名思义，就是点击元素外面才会触发的事件。`ElementUI`中的`select`、`dropdown`、`popver`等组件都用到该指令。
 >
-> `ClickOutside`
 
 ```vue
 <template>
