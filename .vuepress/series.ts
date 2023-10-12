@@ -19,7 +19,8 @@ export default {
     "MiniProgramDecompilation",
     "ElementUIStrangeSkills",
     "uniAppMultiLevelSelector",
-    "CSSMaster"
+    "CSSMaster",
+    "CSSGitHubFrontEndMaster"
   ],
   // 面试宝典
   "/docs/topic/": [
