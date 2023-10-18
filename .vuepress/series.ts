@@ -20,7 +20,9 @@ export default {
     "ElementUIStrangeSkills",
     "uniAppMultiLevelSelector",
     "CSSMaster",
-    "CSSGitHubFrontEndMaster"
+    "CSSGitHubFrontEndMaster",
+    "WeChatMiniProgramMultiLanguage",
+    "FrontEndTreasuresProjects"
   ],
   // 面试宝典
   "/docs/topic/": [
