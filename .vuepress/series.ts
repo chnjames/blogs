@@ -22,7 +22,8 @@ export default {
     "CSSMaster",
     "CSSGitHubFrontEndMaster",
     "WeChatMiniProgramMultiLanguage",
-    "FrontEndTreasuresProjects"
+    "FrontEndTreasuresProjects",
+    "JavaScriptConsole"
   ],
   // 面试宝典
   "/docs/topic/": [
