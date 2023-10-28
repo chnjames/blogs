@@ -23,7 +23,8 @@ export default {
     "CSSGitHubFrontEndMaster",
     "WeChatMiniProgramMultiLanguage",
     "FrontEndTreasuresProjects",
-    "JavaScriptConsole"
+    "JavaScriptConsole",
+    "JavaScriptArray20EssentialTips"
   ],
   // 面试宝典
   "/docs/topic/": [
