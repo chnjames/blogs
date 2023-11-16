@@ -1,5 +1,5 @@
 ---
-title: `GitHub CLI` - 将`GitHub`带入命令行
+title: GitHub CLI - 将GitHub带入命令行
 sticky: 1
 tags:
  - GitHub
