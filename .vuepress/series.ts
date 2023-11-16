@@ -24,7 +24,8 @@ export default {
     "WeChatMiniProgramMultiLanguage",
     "FrontEndTreasuresProjects",
     "JavaScriptConsole",
-    "JavaScriptArray20EssentialTips"
+    "JavaScriptArray20EssentialTips",
+    "GitHubCLI"
   ],
   // 面试宝典
   "/docs/topic/": [
