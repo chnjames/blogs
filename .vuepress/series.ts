@@ -25,7 +25,8 @@ export default {
     "FrontEndTreasuresProjects",
     "JavaScriptConsole",
     "JavaScriptArray20EssentialTips",
-    "GitHubCLI"
+    "GitHubCLI",
+    "OpenSourceProjects"
   ],
   // 面试宝典
   "/docs/topic/": [
