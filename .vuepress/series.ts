@@ -26,7 +26,8 @@ export default {
     "JavaScriptConsole",
     "JavaScriptArray20EssentialTips",
     "GitHubCLI",
-    "OpenSourceProjects"
+    "OpenSourceProjects",
+    "SuperBookmark"
   ],
   // 面试宝典
   "/docs/topic/": [
