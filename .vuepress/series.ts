@@ -27,7 +27,8 @@ export default {
     "JavaScriptArray20EssentialTips",
     "GitHubCLI",
     "OpenSourceProjects",
-    "SuperBookmark"
+    "SuperBookmark",
+    "2023AIGC"
   ],
   // 面试宝典
   "/docs/topic/": [
