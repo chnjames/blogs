@@ -28,7 +28,8 @@ export default {
     "GitHubCLI",
     "OpenSourceProjects",
     "SuperBookmark",
-    "2023AIGC"
+    "2023AIGC",
+    "weixinPay"
   ],
   // 面试宝典
   "/docs/topic/": [
