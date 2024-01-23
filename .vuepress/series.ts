@@ -36,7 +36,8 @@ export default {
     "JavaScript",
     "Vue",
     "CSS",
-    "SpeedBooster"
+    "SpeedBooster",
+    "Git"
   ],
   // 关于我
   "/docs/summary/": [
