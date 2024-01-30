@@ -29,7 +29,8 @@ export default {
     "OpenSourceProjects",
     "SuperBookmark",
     "2023AIGC",
-    "weixinPay"
+    "weixinPay",
+    "weixinInvoice"
   ],
   // 面试宝典
   "/docs/topic/": [
