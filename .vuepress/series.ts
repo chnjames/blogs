@@ -30,7 +30,8 @@ export default {
     "SuperBookmark",
     "2023AIGC",
     "weixinPay",
-    "weixinInvoice"
+    "weixinInvoice",
+    "ElementSelectTree"
   ],
   // 面试宝典
   "/docs/topic/": [
