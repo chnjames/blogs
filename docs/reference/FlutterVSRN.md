@@ -14,7 +14,7 @@ hideComments: false
 
 Flutter 和 React Native 是跨平台应用程序开发的两个领先工具。了解它们的差异以及各自的最佳用例。
 
-![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2e6ea0e31c2349579ef1294d2d4bb122~tplv-k3u1fbpfcp-watermark.image?)
+![202404271436460](https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202404271436460.png)
 
 ## 什么是Flutter？
 
@@ -41,12 +41,12 @@ React Native 将 JavaScript 组件转换为原生组件。
 截至 2021 年 5 月，Flutter 在流行度和使用率方面越来越接近于超越 React Native。但是让我们看看统计数据。
 
 
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e1cc6d43ce434b3fa9ac846f9d32677a~tplv-k3u1fbpfcp-watermark.image?)
+![202404271437973](https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202404271437973.png)
 [*在2021 年 Stack Overflow 调查的*](https://insights.stackoverflow.com/survey/2021#most-popular-technologies-misc-tech) *“最受欢迎技术 - 其他框架”类别中，Flutter 几乎与 React Native 持平。*
 
 有趣的是，在 2019 年，Flutter 几乎垫底。所以这项技术正在非常灵活地迎头赶上。
 
-![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/95193a8ff0794bb4bd9be384b3d1d578~tplv-k3u1fbpfcp-watermark.image?)
+![202404271438971](https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202404271438971.png)
 *根据参与 Stack Overflow Survey 2019 的开发人员，Flutter 在受欢迎程度榜单中垫底。来源：* [*Stack Overflow Survey 2019*](https://insights.stackoverflow.com/survey/2019#most-popular-technologies)
 
 **更新，2023 年 2 月：**
@@ -54,7 +54,7 @@ React Native 将 JavaScript 组件转换为原生组件。
 [年度 Stack Overflow Survey 2022 的结果](https://stackoverflow.blog/2022/05/11/stack-overflow-2022-developer-survey-is-open/)已经公布，下面是在商业项目及其他项目中使用这些技术的开发人员之间关于 Flutter 与 React Native 的辩论的全新视角。
 
 
-![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b9e6df03de074516871d11cc268c445a~tplv-k3u1fbpfcp-watermark.image?)
+![202404271438848](https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202404271438848.png)
 
 *在最新的 Stack Overflow 调查中，Flutter 在最受欢迎的技术类别中获得的认可度略高于 React Native。资料来源：* [Stack Overflow](https://survey.stackoverflow.co/2022/#technology-most-loved-dreaded-and-wanted)
 
@@ -64,19 +64,19 @@ React Native 将 JavaScript 组件转换为原生组件。
 
 
 
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d75c8c51dc7542459c3b0127c8c7a166~tplv-k3u1fbpfcp-watermark.image?)
+![202404271439179](https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202404271439179.png)
 *全球 Flutter（红色）和 React Native（蓝色）流行趋势（2018-2023）。资料来源：* [*Google Trends*](https://trends.google.com/trends/explore?date=2018-01-01%202023-02-28&q=%2Fg%2F11h03gfxy9,%2Fg%2F11f03_rzbg)
 
 然而，在美国，Flutter和React Native之间的竞争仍在激烈进行中，从2021年1月开始的趋势曲线尤其明显。目前，Flutter略微领先于React Native。这种竞争如此激烈，仿佛空气中充斥着斧头和火药味。
 
 
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/62591ba0c7364d02bb67c73cdf87b147~tplv-k3u1fbpfcp-watermark.image?)
+![202404271439768](https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202404271439768.png)
 *中国 Flutter（红色）和 React Native（蓝色）流行趋势（2018-2023）。资料来源：* [*Google Trends*](https://trends.google.com/trends/explore?date=2018-01-01%202023-02-28&geo=CN&q=%2Fg%2F11h03gfxy9,%2Fg%2F11f03_rzbg)
 
 Statista似乎在2020年确认了Flutter与React Native之间全球趋势上的竞争。在接近20,000个受访者的调查中，Flutter和React Native处于势均力敌的状态。
 
 
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6638032953984c6bbf85cc5a44c4da54~tplv-k3u1fbpfcp-watermark.image?)
+![202404271440429](https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202404271440429.png)
 *2019 年和 2020 年全球开发者使用的跨平台移动框架。来源：* [*Statista*](https://www.statista.com/statistics/869224/worldwide-software-developer-working-hours/)
 
 **更新，2021 年 7 月：**
@@ -84,13 +84,13 @@ Statista似乎在2020年确认了Flutter与React Native之间全球趋势上的�
 Statista 的最新研究将**Flutter 列为 2021 年领先的跨平台移动开发框架**。Flutter 超过 React Native 4%（Flutter 为 42%，React Native 为 38%）。尽管如此，可以公平地说这两种技术几乎同样受欢迎。
 
 
-![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/112de5b3c73a4ec8af9851dd06c5caf3~tplv-k3u1fbpfcp-watermark.image?)
+![202404271440307](https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202404271440307.png)
 *2019 年至 2021 年跨平台移动框架在全球开发者中的流行程度。来源：* [*Statista*](https://www.statista.com/statistics/869224/worldwide-software-developer-working-hours/)
 
 然而，其他来源对Flutter或React Native的整体受欢迎程度描绘了略微不同的画面。下面是使用特定引擎的免费移动应用和游戏的百分比表示。当然，考虑到游戏因素，Flutter和React Native的排名较低并不奇怪，因为它们并不是构建游戏的最佳引擎。
 
 
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7b4e0f52ecb54605a48af4f233a49bab~tplv-k3u1fbpfcp-watermark.image?)
+![202404271443800](https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202404271443800.png)
 *全球移动应用和游戏开发者最常使用的引擎（2022 年 7 月）。资料来源：* [*Statista*](https://www.statista.com/statistics/1326121/top-app-dev-engines-worldwide/)
 
 是什么让这两项技术如此受欢迎？让我们来看看。
@@ -116,7 +116,7 @@ Statista 的最新研究将**Flutter 列为 2021 年领先的跨平台移动开�
 因此，Flutter 在 2022 年 Stack Overflow 调查的“最受欢迎的技术——其他框架和库”类别中几乎名列前茅。
 
 
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7bcea503e85b47b697927c920e7efa20~tplv-k3u1fbpfcp-watermark.image?)
+![202404271444142](https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202404271444142.png)
 [*2022 年 Stack Overflow 调查*](https://survey.stackoverflow.co/2022/#technology-most-loved-dreaded-and-wanted)*中“最受喜爱的技术——其他框架和库”类别的结果* *。右边的紫色代表认为技术“最可怕”的受访者。*
 
 ### 命令行界面 (CLI)
@@ -144,13 +144,13 @@ Flutter 不依赖桥接器。相反，Flutter 的核心图形机器 Skia 在用�
 但是 React Native 有一个不错的调试器[——Flipper](https://fbflipper.com/)。
 
 
-![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/efc7483a9c4c4122bad74ff0aeac92ee~tplv-k3u1fbpfcp-watermark.image?)
+![202404271445271](https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202404271445271.png)
 *Flipper 是一个用于调试移动应用程序的平台。Flipper 提供与 React Native、JavaScript 代码和本机代码的开箱即用集成。资料来源：* [**Flipper**](https://fbflipper.com/)
 
 在 Flutter 中，借助支持在 Android Studio 和 Visual Studio 中进行开发的工具，调试变得更加容易。DevTools（来自 Chrome 浏览器）和 OEM Debugger 使它能够帮助开发人员捕获和理解错误。还有[Inspector](https://flutter.dev/docs/development/tools/devtools/inspector)，它可以让您检查应用程序的可视层以及它为什么看起来像这样。
 
 
-![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ffd44b4431154daca2dc8d29c9e35529~tplv-k3u1fbpfcp-watermark.image?)
+![202404271445303](https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202404271445303.png)
 *用于调试可视化层的 Flutter Inspector。资料来源：* [**Flutter**](https://flutter.dev/docs/development/tools/devtools/inspector)
 
 ### 包和库
@@ -180,7 +180,7 @@ Flutter/Dart 的[pub-dev](https://pub.dev/)存储库是一个动态增长的存�
 例如，在 Flutter 的文档中，有针对不同技术背景和经验水平的开发者的“入门”部分。
 
 
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/836e46922cbd4fff9b5560442bf4c55a~tplv-k3u1fbpfcp-watermark.image?)
+![202404271446995](https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202404271446995.png)
 *Flutter 的“入门”部分。资料来源：* [*Flutter*](https://flutter.dev/docs/get-started/install)
 
 因此，希望开始使用 Flutter 的 React Native 开发人员或想要学习如何在移动应用程序中安排组件的 Web 开发人员可以轻松找到他们需要的东西。
@@ -188,7 +188,7 @@ Flutter/Dart 的[pub-dev](https://pub.dev/)存储库是一个动态增长的存�
 React Native 的文档缺乏相同级别的主题组织和深度。
 
 
-![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ea129aefebe84420b98aa0ee448bbced~tplv-k3u1fbpfcp-watermark.image?)
+![202404271446107](https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202404271446107.png)
 *React Native 的“基础知识”部分。来源：* [*React Native*](https://reactnative.dev/docs/getting-started)
 
 但是，在 Stack Overflow 和 Reddit 上有大量的主题，开发人员可以在其中互相帮助解决许多复杂的问题。
@@ -204,7 +204,7 @@ Flutter 和 React Native 都有蓬勃发展的社区，每年都会举办大量�
 **2023 年 2 月的数据：**
 
 
-![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/79742172dd4c41f6aaafad9f40571720~tplv-k3u1fbpfcp-watermark.image?)
+![202404271447675](https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202404271447675.png)
 *2023 年 2 月 Flutter 和 React Native 的沟通渠道和社区规模比较。*
 
 如您所见，Flutter 的社区在 GitHub 上关闭的问题比 React Native 的要多得多。这一点很重要，因为错误会显着降低应用程序的用户体验，如果问题长期得不到解决，错误就会持续存在。
