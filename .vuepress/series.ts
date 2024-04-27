@@ -32,7 +32,8 @@ export default {
     "weixinPay",
     "weixinInvoice",
     "ElementSelectTree",
-    "BuildColorfulTreeComponents"
+    "BuildColorfulTreeComponents",
+    "21AIToolsChangeWorld"
   ],
   // 面试宝典
   "/docs/topic/": [
