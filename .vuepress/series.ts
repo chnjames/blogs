@@ -33,7 +33,8 @@ export default {
     "weixinInvoice",
     "ElementSelectTree",
     "BuildColorfulTreeComponents",
-    "21AIToolsChangeWorld"
+    "21AIToolsChangeWorld",
+    "ManyWaysEasily2DArrays"
   ],
   // 面试宝典
   "/docs/topic/": [
