@@ -31,7 +31,8 @@ export default {
     "2023AIGC",
     "weixinPay",
     "weixinInvoice",
-    "ElementSelectTree"
+    "ElementSelectTree",
+    "BuildColorfulTreeComponents"
   ],
   // 面试宝典
   "/docs/topic/": [
