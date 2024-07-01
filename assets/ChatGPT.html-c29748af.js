@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-7113d8af","path":"/blogs/essay/ChatGPT.html","title":"ChatGPT","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1680772375000,"updatedTime":1680772375000,"contributors":[{"name":"一点一木","email":"chnrural910@gmail.com","commits":1}]},"filePathRelative":"blogs/essay/ChatGPT.md"}');export{a as data};
