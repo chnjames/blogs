@@ -25,15 +25,13 @@ GitHub：<https://github.com/chnjames>
 
 ## 个人优势
 
-1. 熟悉使用 HTML5+CSS3 ，JavaScript 和 jQuery，熟悉 ES6 新特性
-2. 熟悉响应式，Flex 等页面布局方式，熟练使用 Less、Sass
-3. 熟悉掌握 Vue 全家桶，配合 ElementUI、 iViewUI 或 Ant Design 进行快速搭建项目
-4. 熟悉掌握 Git 代码库管理工具，进行灵活开发
-5. 熟悉 vue-amap、ECharts 等流行组件
-6. 熟悉 原生微信小程序 的开发，熟悉 uni-app 多端开发
-7. 熟悉 webpack 进行前端资源打包
-8. 熟悉浏览器原理和计算机网络知识
-9. 了解 React 框架、Node.js
+1. 熟练掌握前端基础（JavaScript、CSS3、HTML5）及 ES 6新特性
+2. 熟悉 Web 、小程序、微信H5开发和 uni-app  多端开发
+3. 熟练使用 Vue2（和 Vue3）框架及相关生态技术，能够独立完成项目搭建和项目部署
+4. 熟悉浏览器原理及计算机网络相关技术，在性能优化方面有实践经验
+5. 带领了4-6人的开发团队，负责项目的整体规划和执行
+6. 熟悉 webpack、vite 打包工具及日常开发配置，并进行前端性能优化
+7. 能够独立负责核心模块或项目的开发工作
 
 ## 爱好
 
