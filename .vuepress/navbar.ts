@@ -22,7 +22,7 @@ export default [
   },
   {
     text: "AI工具集",
-    icon: "AiGenerate",
+    icon: "Apps",
     link: "/docs/AITool/"
   },
   {
