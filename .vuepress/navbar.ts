@@ -26,11 +26,6 @@ export default [
     link: "/docs/AITool/"
   },
   {
-    text: "随笔",
-    icon: "SendAltFilled",
-    link: "/blogs/essay/"
-  },
-  {
     text: "前方的路",
     icon: "Activity",
     link: "/blogs/future/"
