@@ -17,8 +17,19 @@ export default [
   },
   {
     text: "软件推荐",
-    icon: "Application",
-    link: "/docs/software/"
+    icon: "Recommend",
+    children: [
+      {
+        text: "软件推荐",
+        icon: "Application",
+        link: "/docs/software/"
+      },
+      {
+        text: "IT-Tools",
+        icon: 'ToolsAlt',
+        link: "https://it-tools.tech/"
+      }
+    ]
   },
   {
     text: "AI工具集",
