@@ -21,6 +21,11 @@ export default [
     link: "/docs/software/"
   },
   {
+    text: "AI工具集",
+    icon: "AiGenerate",
+    link: "/docs/AITool/"
+  },
+  {
     text: "随笔",
     icon: "SendAltFilled",
     link: "/blogs/essay/"
