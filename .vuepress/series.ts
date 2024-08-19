@@ -39,7 +39,8 @@ export default {
     "ShortLinkDevelopmentRecommendations",
     "React19MajorUpdatesGuide",
     "FDroid-FreeAndPrivateAndroidStore",
-    "WeChatMiniProgram-TimelineComponent"
+    "WeChatMiniProgram-TimelineComponent",
+    "8DeveloperToolsToTryIn2024"
   ],
   // 面试宝典
   "/docs/topic/": [
