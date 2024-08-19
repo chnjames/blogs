@@ -37,7 +37,8 @@ export default {
     "ManyWaysEasily2DArrays",
     "MeteorJS3Here",
     "ShortLinkDevelopmentRecommendations",
-    "React19MajorUpdatesGuide"
+    "React19MajorUpdatesGuide",
+    "FDroid-FreeAndPrivateAndroidStore"
   ],
   // 面试宝典
   "/docs/topic/": [
