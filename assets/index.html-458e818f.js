@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-24c28b0c","path":"/categories/qianduankaifa/3/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{a as data};
