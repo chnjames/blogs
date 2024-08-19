@@ -41,7 +41,8 @@ export default {
     "FDroid-FreeAndPrivateAndroidStore",
     "WeChatMiniProgram-TimelineComponent",
     "8DeveloperToolsToTryIn2024",
-    "9MustTryReactUILibraries2024"
+    "9MustTryReactUILibraries2024",
+    "Vue3ColorCubeGame"
   ],
   // 面试宝典
   "/docs/topic/": [
