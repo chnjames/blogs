@@ -38,7 +38,8 @@ export default {
     "MeteorJS3Here",
     "ShortLinkDevelopmentRecommendations",
     "React19MajorUpdatesGuide",
-    "FDroid-FreeAndPrivateAndroidStore"
+    "FDroid-FreeAndPrivateAndroidStore",
+    "WeChatMiniProgram-TimelineComponent"
   ],
   // 面试宝典
   "/docs/topic/": [
