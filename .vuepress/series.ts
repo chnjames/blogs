@@ -36,7 +36,8 @@ export default {
     "21AIToolsChangeWorld",
     "ManyWaysEasily2DArrays",
     "MeteorJS3Here",
-    "ShortLinkDevelopmentRecommendations"
+    "ShortLinkDevelopmentRecommendations",
+    "React19MajorUpdatesGuide"
   ],
   // 面试宝典
   "/docs/topic/": [
