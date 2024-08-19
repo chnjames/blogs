@@ -40,7 +40,8 @@ export default {
     "React19MajorUpdatesGuide",
     "FDroid-FreeAndPrivateAndroidStore",
     "WeChatMiniProgram-TimelineComponent",
-    "8DeveloperToolsToTryIn2024"
+    "8DeveloperToolsToTryIn2024",
+    "9MustTryReactUILibraries2024"
   ],
   // 面试宝典
   "/docs/topic/": [
