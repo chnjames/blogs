@@ -34,7 +34,8 @@ export default {
     "ElementSelectTree",
     "BuildColorfulTreeComponents",
     "21AIToolsChangeWorld",
-    "ManyWaysEasily2DArrays"
+    "ManyWaysEasily2DArrays",
+    "MeteorJS3Here"
   ],
   // 面试宝典
   "/docs/topic/": [
