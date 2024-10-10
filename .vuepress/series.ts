@@ -54,7 +54,8 @@ export default {
     "DevEfficiencyBoosters",
     "12EssentialWebAPIs",
     "10EssentialWebDevTools",
-    "HiddenDevGems_Ongoing"
+    "HiddenDevGems_Ongoing",
+    "ToolsVsArticles_Why"
   ],
   // 面试宝典
   "/docs/topic/": [
