@@ -47,7 +47,8 @@ export default {
     "Essential_Blog_Tools",
     "Web2to3FrontEnd",
     "GPT4_for_FrontEnd",
-    "Houdini_EasyCardAnim"
+    "Houdini_EasyCardAnim",
+    "Wasm_PerformanceUnlock"
   ],
   // 面试宝典
   "/docs/topic/": [
