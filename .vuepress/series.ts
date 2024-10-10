@@ -52,7 +52,8 @@ export default {
     "v-for_in_of_Guide",
     "Vue3_ArrayMutations_DeepDive",
     "DevEfficiencyBoosters",
-    "12EssentialWebAPIs"
+    "12EssentialWebAPIs",
+    "10EssentialWebDevTools"
   ],
   // 面试宝典
   "/docs/topic/": [
