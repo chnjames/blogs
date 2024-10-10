@@ -53,7 +53,8 @@ export default {
     "Vue3_ArrayMutations_DeepDive",
     "DevEfficiencyBoosters",
     "12EssentialWebAPIs",
-    "10EssentialWebDevTools"
+    "10EssentialWebDevTools",
+    "HiddenDevGems_Ongoing"
   ],
   // 面试宝典
   "/docs/topic/": [
