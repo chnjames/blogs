@@ -42,7 +42,8 @@ export default {
     "WeChatMiniProgram-TimelineComponent",
     "8DeveloperToolsToTryIn2024",
     "9MustTryReactUILibraries2024",
-    "Vue3ColorCubeGame"
+    "Vue3ColorCubeGame",
+    "EffortlessWebContentTool"
   ],
   // 面试宝典
   "/docs/topic/": [
