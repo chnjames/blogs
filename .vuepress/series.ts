@@ -49,7 +49,8 @@ export default {
     "GPT4_for_FrontEnd",
     "Houdini_EasyCardAnim",
     "Wasm_PerformanceUnlock",
-    "v-for_in_of_Guide"
+    "v-for_in_of_Guide",
+    "Vue3_ArrayMutations_DeepDive"
   ],
   // 面试宝典
   "/docs/topic/": [
