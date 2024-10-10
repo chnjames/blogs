@@ -51,7 +51,8 @@ export default {
     "Wasm_PerformanceUnlock",
     "v-for_in_of_Guide",
     "Vue3_ArrayMutations_DeepDive",
-    "DevEfficiencyBoosters"
+    "DevEfficiencyBoosters",
+    "12EssentialWebAPIs"
   ],
   // 面试宝典
   "/docs/topic/": [
