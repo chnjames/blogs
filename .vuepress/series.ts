@@ -45,7 +45,8 @@ export default {
     "Vue3ColorCubeGame",
     "EffortlessWebContentTool",
     "Essential_Blog_Tools",
-    "Web2to3FrontEnd"
+    "Web2to3FrontEnd",
+    "GPT4_for_FrontEnd"
   ],
   // 面试宝典
   "/docs/topic/": [
