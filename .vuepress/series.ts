@@ -44,7 +44,8 @@ export default {
     "9MustTryReactUILibraries2024",
     "Vue3ColorCubeGame",
     "EffortlessWebContentTool",
-    "Essential_Blog_Tools"
+    "Essential_Blog_Tools",
+    "Web2to3FrontEnd"
   ],
   // 面试宝典
   "/docs/topic/": [
