@@ -48,7 +48,8 @@ export default {
     "Web2to3FrontEnd",
     "GPT4_for_FrontEnd",
     "Houdini_EasyCardAnim",
-    "Wasm_PerformanceUnlock"
+    "Wasm_PerformanceUnlock",
+    "v-for_in_of_Guide"
   ],
   // 面试宝典
   "/docs/topic/": [
