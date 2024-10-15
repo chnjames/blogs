@@ -56,7 +56,8 @@ export default {
     "10EssentialWebDevTools",
     "HiddenDevGems_Ongoing",
     "ToolsVsArticles_Why",
-    "FlutterVSRN2024"
+    "FlutterVSRN2024",
+    "14-Code-Snippet-Tools"
   ],
   // 面试宝典
   "/docs/topic/": [
