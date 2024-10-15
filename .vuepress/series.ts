@@ -57,7 +57,8 @@ export default {
     "HiddenDevGems_Ongoing",
     "ToolsVsArticles_Why",
     "FlutterVSRN2024",
-    "14-Code-Snippet-Tools"
+    "14-Code-Snippet-Tools",
+    "JavaScript-OOP-Guide"
   ],
   // 面试宝典
   "/docs/topic/": [
