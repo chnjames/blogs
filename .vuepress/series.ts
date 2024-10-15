@@ -55,7 +55,8 @@ export default {
     "12EssentialWebAPIs",
     "10EssentialWebDevTools",
     "HiddenDevGems_Ongoing",
-    "ToolsVsArticles_Why"
+    "ToolsVsArticles_Why",
+    "FlutterVSRN2024"
   ],
   // 面试宝典
   "/docs/topic/": [
