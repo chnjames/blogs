@@ -58,7 +58,8 @@ export default {
     "ToolsVsArticles_Why",
     "FlutterVSRN2024",
     "14-Code-Snippet-Tools",
-    "JavaScript-OOP-Guide"
+    "JavaScript-OOP-Guide",
+    "Cursor-v0-Bolt-Comparison"
   ],
   // 面试宝典
   "/docs/topic/": [
