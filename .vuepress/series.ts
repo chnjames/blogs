@@ -59,7 +59,8 @@ export default {
     "FlutterVSRN2024",
     "14-Code-Snippet-Tools",
     "JavaScript-OOP-Guide",
-    "Cursor-v0-Bolt-Comparison"
+    "Cursor-v0-Bolt-Comparison",
+    "Programmer-Line-of-sight-BenQ-RD280U"
   ],
   // 面试宝典
   "/docs/topic/": [
