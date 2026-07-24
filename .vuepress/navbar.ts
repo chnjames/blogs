@@ -50,10 +50,5 @@ export default [
     text: "公众号",
     icon: "Apps",
     link: "https://mp.weixin.qq.com/s/Y8ZDIRX2TH0q_PLFhcgfKA"
-  },
-  {
-    text: "GitHub",
-    icon: "LogoGithub",
-    link: "https://github.com/chnjames"
   }
 ];
