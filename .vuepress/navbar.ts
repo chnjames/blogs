@@ -40,5 +40,20 @@ export default [
     text: "前方的路",
     icon: "Activity",
     link: "/blogs/future/"
+  },
+  {
+    text: "掘金",
+    icon: "ChartRadial",
+    link: "https://juejin.cn/user/1063982986187486"
+  },
+  {
+    text: "公众号",
+    icon: "Apps",
+    link: "https://mp.weixin.qq.com/s/Y8ZDIRX2TH0q_PLFhcgfKA"
+  },
+  {
+    text: "GitHub",
+    icon: "LogoGithub",
+    link: "https://github.com/chnjames"
   }
 ];

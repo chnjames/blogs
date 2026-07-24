@@ -6,13 +6,13 @@ import series from "./series";
 export default {
   base: "/blogs/",
   title: "一点一木",
-  description: "专注为了分享，而分享则能让更多人专注！",
+  description: "一点一木（Grant Liu）。独立开发者，掘金LV.5（593K+阅读）。写AI工具、产品复盘、开源项目。",
   head,
   theme: recoTheme({
     repo: 'chnjames/blogs',
     style: "@vuepress-reco/style-default",
     logo: "https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202304071611913.png",
-    author: "James",
+    author: "一点一木",
     authorAvatar: "https://raw.githubusercontent.com/chnjames/cloudImg/main/blog/202304071611913.png",
     // page meta
     editLink: true,
